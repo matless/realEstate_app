@@ -1,11 +1,12 @@
 import React from "react";
-import { View } from "react-native";
+import { Text, View } from "react-native";
 
-const SignIn() => {
+const SignIn = () => {
   return(
      <View>
-     <Text>
-     </Text>
+        <Text>
+            SignIn
+        </Text>
      </View>)
   ;
 }
